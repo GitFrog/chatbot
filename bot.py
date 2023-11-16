@@ -8,7 +8,7 @@ import time
 
 # Set your OpenAI API key
 client = openai.OpenAI(
-    api_key='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'
+    api_key=''
 )
 
 personality = "personality.txt"
